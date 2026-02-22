@@ -1,9 +1,18 @@
 # YouFastEnough_PyGame
 Game Code used to compete in the **Fall 2024 ENCMP 100 Programming Contest** hosted by **Dr Dileepan Joseph, University of Alberta - First-Year Engineering, Faculty of Engineering**
 
-"You Fast Enough? - Aaron Bernard-(https://www.linkedin.com/in/aaron-bernard-8bab28213/) and Harshavardan Maheskumar-(https://www.linkedin.com/in/harsha-vardan/)
+▪	**Extra-curricular Software-Dev.-focus Project, “optional and not for credit”** – competed with a friend
+▪	“You Fast Enough?” – a timed-memory game with numbers and alphabets - gameplay loop similar to that of Subway Surfers or any other game in the genre of playing till ones max 'potential' --> getting the highest score possible
+▪	Project utilized Python and the Python game module ‘Pygame’; **module not covered/taught in lecture** 
+▪	**developed in approx. 8-9 hours continuously**; code done primarily by self – partner contributed in design process, reflection of code and media-recording/editing. 
+▪	**Participation Award (unranked out of 5 submissions)**; attained an **overall ‘A-’ grade** with ‘**quality of deliverables: excellent**’ although ‘**reflections on process: min. pass**’.
+▪	**Failed to meet ‘Software-Dev.’ aspect of competition** (required reflection on design and development of software); code was **developed the overnight**, although **provided (approx.) 1 month of development time**, thus failed this aspect of project
+Project demonstrated ability to complete project (start-to-finish), near error-free, in less than a day maintaining higher quality/standard, sticking to original idea (plus-minus some features), **without use of 3rd-party tools (generative AI or code-help-sites: ChatGPT, Stackoverflow etc)**.
 
-Contest required a submission that would later be uploaded onto YouTube: https://www.youtube.com/watch?v=Ih0zuZ7bIUk
+
+"You Fast Enough? - [Aaron Bernard LinkedIn](https://www.linkedin.com/in/aaron-bernard-8bab28213/) and [Harshavardan Maheskumar LinkedIn](https://www.linkedin.com/in/harsha-vardan/)
+
+Contest required a submission that would later be uploaded onto YouTube: [YouTube Video Submission](https://www.youtube.com/watch?v=Ih0zuZ7bIUk)
 
 Programming and Voice-over done by: Aaron Bernard (voice is sped up to meet submission limit of 5 mins - might sound different)
 
