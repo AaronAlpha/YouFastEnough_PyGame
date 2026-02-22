@@ -4,7 +4,9 @@ Game Code used to compete in the 2024 ENCMP 100 Programming Contest hosted by Dr
 "You Fast Enough? - Aaron Bernard-(https://www.linkedin.com/in/aaron-bernard-8bab28213/) and Harshavardan Maheskumar-(https://www.linkedin.com/in/harsha-vardan/)
 
 Contest required a submission that would later be uploaded onto YouTube: https://www.youtube.com/watch?v=Ih0zuZ7bIUk
+
 Programming and Voice-over done by: Aaron Bernard (voice is sped up to meet submission limit of 5 mins - might sound different)
+
 Video editing done by (among other media related things refer References): Harshavardan Maheskumar
 
 ## YouTube Description: 
