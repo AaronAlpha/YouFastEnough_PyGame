@@ -10,9 +10,9 @@ Game Code used to compete in the **Fall 2024 ENCMP 100 Programming Contest** hos
 Project demonstrated ability to complete project (start-to-finish), near error-free, in less than a day maintaining higher quality/standard, sticking to original idea (plus-minus some features), **without use of 3rd-party tools (generative AI or code-help-sites: ChatGPT, Stackoverflow etc)**.
 
 
-"You Fast Enough? - [Aaron Bernard LinkedIn](https://www.linkedin.com/in/aaron-bernard-8bab28213/) and [Harshavardan Maheskumar LinkedIn](https://www.linkedin.com/in/harsha-vardan/)
+"You Fast Enough? - [Aaron Bernard (LinkedIn)](https://www.linkedin.com/in/aaron-bernard-8bab28213/) and [Harshavardan Maheskumar (LinkedIn)](https://www.linkedin.com/in/harsha-vardan/)
 
-Contest required a submission that would later be uploaded onto YouTube: [YouTube Video Submission](https://www.youtube.com/watch?v=Ih0zuZ7bIUk)
+Contest required a submission that would later be uploaded onto YouTube ([YouTube Video Submission](https://www.youtube.com/watch?v=Ih0zuZ7bIUk))
 
 Programming and Voice-over done by: Aaron Bernard (voice is sped up to meet submission limit of 5 mins - might sound different)
 
