@@ -12,7 +12,7 @@ Project demonstrated ability to complete project (start-to-finish), near error-f
 
 "You Fast Enough? - [Aaron Bernard (LinkedIn)](https://www.linkedin.com/in/aaron-bernard-8bab28213/) and [Harshavardan Maheskumar (LinkedIn)](https://www.linkedin.com/in/harsha-vardan/)
 
-Contest required a submission that would later be uploaded onto YouTube ([YouTube Video Submission](https://www.youtube.com/watch?v=Ih0zuZ7bIUk))
+Contest required a submission that would later be uploaded onto [YouTube](https://www.youtube.com/watch?v=Ih0zuZ7bIUk
 
 Programming and Voice-over done by: Aaron Bernard (voice is sped up to meet submission limit of 5 mins - might sound different)
 
