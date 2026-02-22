@@ -1,5 +1,5 @@
 # YouFastEnough_PyGame
-Game Code used to compete in the 2024 ENCMP 100 Programming Contest hosted by Dr Dileepan Joseph
+Game Code used to compete in the **Fall 2024 ENCMP 100 Programming Contest** hosted by Dr Dileepan Joseph, University of Alberta - First-Year Engineering, Faculty of Engineering
 
 "You Fast Enough? - Aaron Bernard-(https://www.linkedin.com/in/aaron-bernard-8bab28213/) and Harshavardan Maheskumar-(https://www.linkedin.com/in/harsha-vardan/)
 
