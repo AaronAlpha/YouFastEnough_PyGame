@@ -86,6 +86,7 @@ This could be amounted to the Spyder IDE itself for the delay, or worse, incorre
 Video Editing Software: “Final Cut Pro FX” 
 
 Dictionary Revision: https://www.w3schools.com/python/python_dictionaries.asp
+
 Random – Randint: https://www.w3schools.com/python/module_random.asp 
 
 All pygame references:
@@ -101,7 +102,8 @@ All pygame references:
 -	Buttons-text: https://www.youtube.com/watch?v=jyrP0dDGqgY  – Coding with Russ
 -	Buttons-images: https://www.youtube.com/watch?v=G8MYGDf_9ho  – Coding with Russ
 
-Downloaded Font Style: “TechnoRaceItalic-eZRWe.otf” by Nirmana Visual. 
+Downloaded Font Style: “TechnoRaceItalic-eZRWe.otf” by Nirmana Visual.
+
 Downloaded from “Font Space” - https://www.fontspace.com/category/gaming
 
 All code structures and learning are credited to those above.
